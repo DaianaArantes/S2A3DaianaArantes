@@ -1,0 +1,10 @@
+C:\Users\daian\OneDrive\College\Programming Concepts II\Assigment3\Assigment3\bin\Debug\Assigment3.exe.config
+C:\Users\daian\OneDrive\College\Programming Concepts II\Assigment3\Assigment3\bin\Debug\Assigment3.exe
+C:\Users\daian\OneDrive\College\Programming Concepts II\Assigment3\Assigment3\bin\Debug\Assigment3.pdb
+C:\Users\daian\OneDrive\College\Programming Concepts II\Assigment3\Assigment3\obj\Debug\Assigment3.csprojResolveAssemblyReference.cache
+C:\Users\daian\OneDrive\College\Programming Concepts II\Assigment3\Assigment3\obj\Debug\Assigment3.Form1.resources
+C:\Users\daian\OneDrive\College\Programming Concepts II\Assigment3\Assigment3\obj\Debug\Assigment3.Properties.Resources.resources
+C:\Users\daian\OneDrive\College\Programming Concepts II\Assigment3\Assigment3\obj\Debug\Assigment3.csproj.GenerateResource.cache
+C:\Users\daian\OneDrive\College\Programming Concepts II\Assigment3\Assigment3\obj\Debug\Assigment3.csproj.CoreCompileInputs.cache
+C:\Users\daian\OneDrive\College\Programming Concepts II\Assigment3\Assigment3\obj\Debug\Assigment3.exe
+C:\Users\daian\OneDrive\College\Programming Concepts II\Assigment3\Assigment3\obj\Debug\Assigment3.pdb
